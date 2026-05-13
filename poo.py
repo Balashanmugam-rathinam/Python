@@ -7,5 +7,5 @@
 #         result = pool.map(square,[2,3,4])
 #         print(result)
 
-x = 4 + 9 * 
+x = 4 + 9 *  4
 print(x)

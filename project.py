@@ -22,7 +22,6 @@ x = 1
 #     x = x + 1
 # fun()
 # print(x)
-
 from multiprocessing import Pool
 
 def square(x):
