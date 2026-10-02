@@ -7,5 +7,5 @@ class serson:
 
 def fun():
     print("Welcome to GFG")
-    
+    print("Welcome to GFG")
 fun()
